@@ -20,17 +20,13 @@ const Navbar = () => {
         <Link href="#projects">Projects</Link>
         <Link href="#contact">Contact</Link>
         <a
-          href="/Karthik_Saladi_CV.pdf"
-          download
+          href="https://raw.githubusercontent.com/karthiksaladi047/cv/main/Karthik_Saladi_CV.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
           className="flex items-center gap-2 px-3 py-1 rounded bg-gradient-to-r from-purple-500 to-pink-500 text-sm text-white hover:opacity-80 transition"
         >
+          <Image src="/download.png" width={20} height={20} alt="Download CV" />
           CV
-          <Image
-            src="/downloads.png"
-            width={15}
-            height={15}
-            alt="Download CV"
-          />
         </a>
       </div>
     </nav>
