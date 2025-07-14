@@ -35,7 +35,7 @@ const Navbar = () => {
           <Link href="#projects">Projects</Link>
           <Link href="#contact">Contact</Link>
           <a
-            href="https://raw.githubusercontent.com/karthiksaladi047/cv/main/Karthik_Saladi_CV.pdf"
+            href="https://raw.githubusercontent.com/karthiksaladi047/karthiksaladi047/main/Karthik_Saladi_CV.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 px-3 py-1 rounded bg-gradient-to-r from-purple-500 to-pink-500 text-sm text-white hover:opacity-80 transition"
