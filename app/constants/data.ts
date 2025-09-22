@@ -35,7 +35,8 @@ export const experiences = [
        "Partnered with customers and stakeholders to optimize deployments, application workflows, and workloads across multiple software stack layers.",
        "Collaborated with engineering teams to analyze logs, reproduce complex issues, and devise effective resolution strategies.",
        "Ensured customer success through proactive, clear communication with internal and external teams.",
-      "Supported pre-sales activities, including technical discussions, POCs, and production installations."
+      "Supported pre-sales activities, including technical discussions, POCs, and production installations.",
+      ],
   },
   {
     title: "L1 Cloud Support Engineer",
