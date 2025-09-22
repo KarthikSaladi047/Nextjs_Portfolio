@@ -1,7 +1,7 @@
 export const summaryText = [
-  `I'm a versatile and impact-driven Cloud & DevOps Engineer with 4 years of experience across the Cloud, DevOps, and SRE landscape — delivering reliability and scale in real-world environments. My core strengths lie in Kubernetes and OpenStack, where I've consistently supported and optimized production-grade systems, including complex air-gapped and multi-tenant deployments.`,
+  `I'm a versatile and impact-driven Cloud & DevOps Engineer with 4+ years of experience across the Cloud, DevOps, and SRE landscape — delivering reliability and scale in real-world environments. My core strengths lie in Kubernetes and OpenStack, where I've consistently supported and optimized production-grade systems, including complex air-gapped and multi-tenant deployments.`,
   `I've driven SRE outcomes through effective incident response, postmortems, and observability improvements using tools like Cortex, Grafana, and custom alerting pipelines. I’m passionate about reducing operational toil, improving infrastructure with Terraform automation, and building internal tooling with Python and Next.js.`,
-  `Whether it's optimizing AWS costs, managing hybrid workloads, or maintaining high availability in challenging environments, I approach each challenge with curiosity and accountability. I'm multi-cloud certified — holding credentials across CKA, AWS, Azure, GCP, and OCI — and thrive in fast-paced, collaborative teams that value reliability, scale, and continuous learning.`,
+  `Whether it's optimizing AWS costs, supporting CSI, managing hybrid workloads, or maintaining high availability in challenging environments, I approach each challenge with curiosity and accountability. I'm multi-cloud certified — holding credentials across CKA, AWS, Azure, GCP, and OCI — and thrive in fast-paced, collaborative teams that value reliability, scale, and continuous learning.`,
 ];
 
 export const services = [
@@ -24,11 +24,24 @@ export const services = [
 ];
 
 export const experiences = [
+{
+    title: "Technical Services Engineer",
+    company: "Pure Storage",
+    logo: "/icons/pure.png",
+    date: "Sep 2025 – Present",
+    points: [
+      "Analyzed, troubleshot, and supported large-scale customer deployments in both public and private cloud environments.",
+      "Delivered technical expertise across all phases of Portworx deployment for key enterprise customers.",
+       "Partnered with customers and stakeholders to optimize deployments, application workflows, and workloads across multiple software stack layers.",
+       "Collaborated with engineering teams to analyze logs, reproduce complex issues, and devise effective resolution strategies.",
+       "Ensured customer success through proactive, clear communication with internal and external teams.",
+      "Supported pre-sales activities, including technical discussions, POCs, and production installations."
+  },
   {
     title: "L1 Cloud Support Engineer",
     company: "Platform9 Systems",
     logo: "/icons/pf9.png",
-    date: "Oct 2023 – Present",
+    date: "Oct 2023 – Sep 2025",
     points: [
       "Delivering enterprise-grade support for Platform9-managed Kubernetes and OpenStack workloads across multi-cloud and air-gapped environments.",
       "Led customer-facing incident response and zero-downtime migrations, improving SLA adherence and reducing MTTR.",
@@ -127,10 +140,10 @@ export const techStack = [
   { name: "Kubernetes", icon: "/tech/kubernetes.svg" },
   { name: "Opnestack", icon: "/tech/openstack.svg" },
   { name: "Terraform", icon: "/tech/terraform.svg" },
+  { name: "Portworx", icon: "/tech/portworx.svg" },
   { name: "Cloud", icon: "/tech/googlecloud.svg" },
   { name: "Python", icon: "/tech/python.svg" },
   { name: "Next.js", icon: "/tech/nextdotjs.svg" },
-  { name: "React", icon: "/tech/react.svg" },
   { name: "TypeScript", icon: "/tech/typescript.svg" },
   { name: "Docker", icon: "/tech/docker.svg" },
   { name: "Bash", icon: "/tech/gnubash.svg" },
