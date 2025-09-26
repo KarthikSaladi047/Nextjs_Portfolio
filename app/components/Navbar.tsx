@@ -31,7 +31,7 @@ const Navbar = () => {
         <div className="hidden md:flex items-center space-x-6 text-white font-medium">
           <Link href="#about">About</Link>
           <Link href="#work">Work</Link>
-          <Link href="#tech">TechStack</Link>
+          <Link href="#tech">Tech</Link>
           <Link href="#projects">Projects</Link>
           <Link href="#contact">Contact</Link>
           <a
