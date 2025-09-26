@@ -61,7 +61,7 @@ const Navbar = () => {
             Work
           </Link>
           <Link href="#tech" onClick={() => setIsOpen(false)}>
-            TechStack
+            Tech
           </Link>
           <Link href="#projects" onClick={() => setIsOpen(false)}>
             Projects
