@@ -34,7 +34,7 @@ const Hero = () => {
           Hi, I&apos;m <span className="text-blue-300">Karthik Saladi</span>
         </h1>
         <p className="mt-2 text-xl text-gray-300">
-          Cloud | DevOps | SRE Engineer
+          Cloud | DevOps | SRE
         </p>
 
         <p className="mt-4 text-md text-gray-400">
