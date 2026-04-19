@@ -26,7 +26,7 @@ export const services = [
 export const experiences = [
 {
     title: "Technical Services Engineer",
-    company: "Pure Storage",
+    company: "Everpure",
     logo: "/icons/pure.png",
     date: "Sep 2025 – Present",
     points: [
