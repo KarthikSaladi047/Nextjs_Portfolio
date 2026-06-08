@@ -39,7 +39,7 @@ export const experiences = [
       ],
   },
   {
-    title: "L1 Cloud Support Engineer",
+    title: "L1 Site Reliability Engineer",
     company: "Platform9 Systems",
     logo: "/icons/pf9.png",
     date: "Oct 2023 – Sep 2025",
